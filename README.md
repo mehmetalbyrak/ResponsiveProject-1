@@ -1,6 +1,6 @@
 # ResponsiveProject-1
 
-A responsive website created using HTML, CSS, and Font Awesome, based on a template from [W3Schools](https://www.w3schools.com/w3css/tryw3css_templates_website.htm).
+A responsive website created using HTML, CSS, and Font Awesome, based on a template from https://www.w3schools.com/
 
 ## Live Demo
 https://mehmetalbyrak.github.io/ResponsiveProject-1/
