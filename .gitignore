@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Node Modules
+node_modules/
+
+# SASS Cache
+.sass-cache/
+
+# Web IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs and Temporary Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# Cache and others
+.cache/
+dist/
+build/
+tmp/
+temp/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Test Outputs
+coverage/
+*.lcov
+
+# Others
+*.bak
+*.swp
+*.tmp
