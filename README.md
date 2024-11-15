@@ -1,19 +1,19 @@
 # ResponsiveProject-1
 
-A responsive website created using HTML, CSS, and Font Awesome, based on a template from https://www.w3schools.com/
+A fully responsive website built using **HTML**, **CSS**, and **Font Awesome**, inspired by a template from [W3Schools](https://www.w3schools.com/).
 
-## Live Demo
-https://mehmetalbyrak.github.io/ResponsiveProject-1/
+## 🌐 Live Demo
+Explore the live version: [ResponsiveProject-1 Live Demo](https://mehmetalbyrak.github.io/ResponsiveProject-1/)
 
-## Features
-- Responsive layout for various screen sizes
-- Team section introducing members
-- Works section showcasing projects and testimonials
-- Pricing options display
-- Contact form with information and social media links
+## 📌 Key Features
+- **Responsive Design**: Adaptable layout for various screen sizes.
+- **Team Section**: Introduces team members with brief profiles.
+- **Works Showcase**: Highlights projects and client testimonials.
+- **Pricing Options**: Organized display of different pricing plans.
+- **Contact Form**: Functional form with contact information and social media links.
 
-## Template Source
-This project is a clone of the following W3Schools template: [W3.CSS Template](https://www.w3schools.com/w3css/tryw3css_templates_website.htm).
+## 📄 Template Attribution
+This project customizes the [W3.CSS Template](https://www.w3schools.com/w3css/tryw3css_templates_website.htm) from W3Schools.
 
-## License
-This project is created for educational purposes and based on a public template.
+## ⚖️ License
+This project is for educational purposes, based on a publicly available template from W3Schools.
