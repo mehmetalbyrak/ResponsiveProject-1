@@ -181,7 +181,7 @@
   margin: 0 16px;
 }
 .product:hover {
-  box-shadow: 3px 3px 3px red, -3px -3px 3px grey, 3px -3px 3px grey,
+  box-shadow: 3px 3px 3px grey, -3px -3px 3px grey, 3px -3px 3px grey,
     -3px 3px 3px grey;
 }
 .product h3,
@@ -363,7 +363,7 @@
   color: white;
 }
 
-/* RESPONSIVE Yapı için */
+/* RESPONSIVE */
 
 /* (768px ve altı) */
 @media (max-width: 768px) {
@@ -467,7 +467,7 @@
   }
 }
 
-/* footer kısmını bu noktaya aldım */
+/* footer */
 #footer {
   display: flex;
   flex-direction: column;
